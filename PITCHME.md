@@ -1,20 +1,13 @@
-# Black
-
-### A GitPitch Presentation Template
-
----
-
-## Tips!
-
-<br>
-
-@fa[arrows gp-tip](Press F to go Fullscreen)
-
-@fa[microphone gp-tip](Press S for Speaker Notes)
+# Intention
+## Tips for maximizing your Holberton experience
 
 ---
 
-## Template Features
+### What brought _you_ here?
+
+---
+
+## Intention drives action
 
 - Code Presenting |
 - Repo Source, Static Blocks, GIST |
