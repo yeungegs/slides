@@ -1,24 +1,12 @@
-# Intention
-## Tips for maximizing your Holberton experience
+## Holberton School Cohort 5 welcome
 
 ---
 
 ## Intention drives action
 
-- Code Presenting |
-- Repo Source, Static Blocks, GIST |
-- Custom CSS Styling |
-- Slideshow Background Image |
-- Slide-specific Background Images |
-- Custom Logo, TOC, and Footnotes |
-
----?code=src/go/server.go&lang=golang&title=Golang File
-
-@[1,3-6](Present code found within any repo source file.)
-@[8-18](Without ever leaving your slideshow.)
-@[19-28](Using GitPitch code-presenting with (optional) annotations.)
-
----
+- Network | 
+- Professionalism |
+- 
 
 ---
 
@@ -33,19 +21,13 @@
 
 ---
 
-### Template Versions
-
-- #### [Base Template  @fa[external-link gp-download]](https://gitpitch.com/gitpitch/templates/black)
-- #### [Code Maximized @fa[external-link gp-download]](https://gitpitch.com/gitpitch/templates/black?p=codemax)
-- #### [Speaker Notes @fa[external-link gp-download]](https://gitpitch.com/gitpitch/templates/black?p=speaker)
-
 ---
-
----
-
 ### What brought _you_ here?
 
+<br>
 ---
+
+<br>
 
 @fa[twitter gp-contact](@egsy)
 
@@ -55,8 +37,4 @@
 
 ---?image=assets/image/gitpitch-audience.jpg&opacity=100
 
-@title[Download this Template!]
-
-### Get your presentation started!
-### [Download this template @fa[external-link gp-download]](https://gitpitch.com/template/download/black)
 
